@@ -36,7 +36,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://katori-yamato.github.io/tochigi-jinjacho/",
+  "homepage": "https://tochigi-jinjacho.github.io/tochigi-jinjacho/",
   "eslintConfig": {
     "extends": "react-app"
   },
